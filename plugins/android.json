@@ -39,6 +39,9 @@
     },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.trackandeat.app"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.trackandeat.app"
     }
   },
   "dependent_plugins": {
