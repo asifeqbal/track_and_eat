@@ -36,6 +36,9 @@
     },
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "com.trackandeat.app"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.trackandeat.app"
     }
   },
   "dependent_plugins": {
